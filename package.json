@@ -1,0 +1,36 @@
+{
+  "name": "wangeditor-metion-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanmingpan/wangeditor-metion-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanmingpan/wangeditor-metion-demo/issues"
+  },
+  "homepage": "https://github.com/hanmingpan/wangeditor-metion-demo#readme",
+  "dependencies": {
+    "@element-plus/icons": "0.0.11",
+    "@vueuse/core": "^7.0.3",
+    "@wangeditor/core": "^1.1.14",
+    "@wangeditor/editor": "^5.1.18",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "ali-oss": "^6.17.1",
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "element-plus": "^2.2.17",
+    "lodash-es": "^4.17.21",
+    "normalize.css": "^8.0.1",
+    "snabbdom": "^3.5.1",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0"
+  }
+}
